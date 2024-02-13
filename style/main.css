@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(182, 147, 147);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#my-image{
+    box-shadow: 0 0 2px 1px black;
+}
+
+.test2{
+    list-style-type: square;
+}
+
+header,footer{
+    background-color: rgb(148, 44, 44);
+}
+
+header{
+    height: 30px;
+}
+
+.link-header{
+    text-decoration: none;
+    color: black;
+}
+
+.test3{
+    background-color: rgb(219, 61, 61);
+}
+
+.test3 li{
+    background-color: #863b3b;
+    list-style: none;
+    
+}
+
+.hobby-list li:nth-child(odd){
+    background-color: lightgrey;
+}
+
+.no-underline {
+    text-decoration: none;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+}
+
+footer{
+    color: rgb(255, 255, 255);
+}
+
+.test1{
+    color: rgb(226, 202, 208);
+}
